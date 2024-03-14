@@ -1,8 +1,7 @@
-# Notas:
+# Notes:
+This is a small Express server ready to run and serve the public folder on the web.
 
-Este es un pequeño servidor de express listo para ejecutarse y servir la carpeta public en la web.
-
-Recuerden que deben de reconstruir los módulos de node con el comando
+Remember to rebuild the Node modules with the command
 
 ```
 npm install
